@@ -1,0 +1,1 @@
+Bir metindeki kelime ve harf sayısını bulma. 
